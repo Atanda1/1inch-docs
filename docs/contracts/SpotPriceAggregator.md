@@ -1,4 +1,4 @@
-Liquidity-weighted dex price oracle for offchain price discovery
+The 1inch spot price aggregator is a set of smart contracts that extract price data for tokens traded on DEXes from the blockchain. To avoid price manipulations within a transaction, the spot price aggregator should ONLY be used off-chain. DO NOT use it on-chain.
 
 <BonadocsWidget widgetConfigUri="ipfs://QmfSs9ntcN8hZ3JYZfGvPP2ro1ZTEVQCJ3sReWgKqASzgK" contract="0x1b96c" functionKey="0x1b96c.function.0x65050a68" />
 <BonadocsWidget widgetConfigUri="ipfs://QmfSs9ntcN8hZ3JYZfGvPP2ro1ZTEVQCJ3sReWgKqASzgK" contract="0x1b96c" functionKey="0x1b96c.function.0xb77910dc" />
